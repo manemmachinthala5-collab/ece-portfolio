@@ -5,7 +5,6 @@ Welcome to my ECE Portfolio repository! Here you will find my projects related t
 ## 📂 Project Domains
 
 * *[Embedded Systems](./Embedded_Systems)* - Microcontroller projects, C/C++ code, and circuit schematics.
- * * [IoT Projects](./IoT_Projects) - Smart sensors, wireless communication, and cloud monitoring systems. 
 * *[VLSI Projects](./VLSI_Projects)* - Verilog/VHDL designs and RTL simulations.
 
 ## 🛠️ Skills & Tools
